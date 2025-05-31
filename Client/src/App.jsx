@@ -4,7 +4,7 @@ import Exam from "./pages/Exam.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import Result from "./pages/Result.jsx";
 import Workspace from "./pages/Workspace.jsx";
-import Register from "./pages/register.jsx";
+import register from "./pages/register.jsx";
 import ExamCreation from "./pages/ExamCreation.jsx";
 import Navbar from "./components/Navbar.jsx";
 
